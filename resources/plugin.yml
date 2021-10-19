@@ -1,0 +1,27 @@
+# Prefix or title of the message broadcast
+prefix: "[HiverBroadcast]"
+
+# Delay broadcast task
+# 100 for 1s
+# 1000 for 1m
+# 10000 for 10h
+delay: 1000
+
+# Manage setting of Broadcast
+# [message, title, tip, popup] for type
+broadcast-type: message
+
+# true - for enable sound
+# false - for disable sound
+sound: true
+
+# Message broadcast
+# Usage (-) for valid format = List
+# Support format -|
+# [B] Bold, [N] &n, [O] &o, [R] Reset
+# [L] \n, [G] Green, [A] Aqua, and more!
+# -| End the format
+messages:
+- "(1) Broadcast Messages!"
+- "(2) Broadcast Messages!"
+- "(3) Broadcast Messages!"
