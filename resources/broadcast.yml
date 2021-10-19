@@ -4,7 +4,7 @@ prefix: "[HiverBroadcast]"
 # Delay broadcast task
 # 100 for 1s
 # 1000 for 1m
-# 10000 for 10h
+# 10000 for 1h
 delay: 1000
 
 # Manage setting of Broadcast
